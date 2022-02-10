@@ -11,7 +11,7 @@
       "stopAtEntry": false,
       "cwd": "c:/Users/carlo/Desktop/Documents/VSCode",
       "environment": [],
-      "program": "c:/Users/carlo/Desktop/Documents/VSCode/build/Debug/outDebug",
+      "program": "c:/Users/carlo/Desktop/Documents/VSCode/HelloWorld.exe",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
